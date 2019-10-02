@@ -5,3 +5,5 @@ Christmas is coming soon, yay!
 
 I want to insert 3 lines
 Lab says only 2.
+
+1 line of text
